@@ -1,4 +1,4 @@
-# Rapid prototyping with Spring Boot and AngularJS
+# Rapid prototyping with Spring Boot
 This example demonstrates how **Spring Boot**, **Spring Data JPA** can be used together to write web applications easily.
 In this code example I'm demonstrating this by providing a full CRUD-based web application in about 150 lines of code (100 lines of Java code ).
 
