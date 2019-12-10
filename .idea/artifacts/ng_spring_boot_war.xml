@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ng-spring-boot:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ng-spring-boot</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ng-spring-boot-1.0.0.war">
+      <element id="artifact" artifact-name="ng-spring-boot:war exploded" />
+    </root>
+  </artifact>
+</component>
